@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Provinces of Thailand</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+            width: 100%;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            font-size: 1.2rem;
+            margin: 5px 0;
+            padding: 5px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Provinces of Thailand</h1>
+        <ul>
+            <li>Bangkok</li>
+            <li>Chiang Mai</li>
+            <li>Phuket</li>
+            <li>Chonburi</li>
+            <li>Nakhon Ratchasima</li>
+            <li>Khon Kaen</li>
+            <li>Udon Thani</li>
+            <li>Surat Thani</li>
+            <li>Nakhon Si Thammarat</li>
+            <li>Songkhla</li>
+        </ul>
+    </div>
+</body>
+</html>
